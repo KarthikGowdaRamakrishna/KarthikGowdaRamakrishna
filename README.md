@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**Check out the my live web portfolio:**
+
+https://karthikgowdaramakrishna.github.io/My_portfolio/
+
 <!--
 **KarthikGowdaRamakrishna/KarthikGowdaRamakrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
