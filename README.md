@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Check out the my live web portfolio:**
+**Check out my live web portfolio:**
 
 https://karthikgowdaramakrishna.github.io/My_portfolio/
 
